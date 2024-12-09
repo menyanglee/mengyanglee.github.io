@@ -3792,11 +3792,11 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:hover {
-				color: rgba(0, 0, 0, 0.55);
+				color: rgba(255, 255, 255, 0.55);
 			}
 
 			#sidebar nav a.active {
-				color: #000000;
+				color: #ffffff;
 			}
 
 				#sidebar nav a.active:after {
@@ -3860,7 +3860,7 @@ input, select, textarea {
 							display: block;
 							height: inherit;
 							line-height: inherit;
-							margin: 0 0 0 2em;
+							margin: 100 100 100 2em;
 							padding: 0;
 						}
 
