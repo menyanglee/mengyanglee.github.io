@@ -116,7 +116,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.55);
-		font-family: Arial, Helvetica, sans-serif;
+		font-family: Roboto, Poppins, Arial, Helvetica, sans-serif;
 		font-size: 16.5pt;
 		font-weight: normal;
 		line-height: 1.75;
@@ -164,6 +164,7 @@ input, select, textarea {
 	strong, b {
 		color: #ffffff;
 		font-weight: bold;
+		font: Roboto;
 	}
 
 	em, i {
@@ -172,11 +173,13 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		font: Roboto;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-weight: bold;
+		font: Poppins;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
 	}
@@ -238,26 +241,32 @@ input, select, textarea {
 
 		h1 {
 			font-size: 2em;
+			
 		}
 
 		h2 {
 			font-size: 1.25em;
+			
 		}
 
 		h3 {
 			font-size: 1em;
+			
 		}
 
 		h4 {
 			font-size: 0.8em;
+			
 		}
 
 		h5 {
 			font-size: 0.6em;
+			
 		}
 
 		h6 {
 			font-size: 0.6em;
+			
 		}
 
 	}
