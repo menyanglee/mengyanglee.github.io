@@ -2564,7 +2564,7 @@ input, select, textarea {
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					color: #F1F1F1;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
@@ -3269,7 +3269,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #F1F1F1;
 		}
 
 		.wrapper.style2-alt {
