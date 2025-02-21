@@ -4,4 +4,4 @@
 https://yilinshao10.github.io/
 
 ### Exploring Interactive Interfaces
-Fallen Leaves ttps://yilinshao10.github.io/Fallen-leaves/
+Fallen Leaves https://yilinshao10.github.io/Fallen-leaves/
